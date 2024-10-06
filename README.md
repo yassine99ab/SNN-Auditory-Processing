@@ -4,7 +4,6 @@ This repository contains the code and experiments related to my Data Science mas
 
 ## **Table of Contents**
 - [Overview](#overview)
-- [Project Structure](#project-structure)
 - [Features](#features)
 - [Datasets](#datasets)
 - [Installation](#installation)
@@ -19,9 +18,6 @@ The main goals of this project are:
 - Developing Spiking Neural Networks to process auditory data.
 - Implementing SNN models for speech recognition and sound classification.
 - Comparing the performance of SNNs with traditional ANN models in terms of accuracy and energy efficiency.
-
-## **Project Structure**
-The repository is organized as follows:
 
 
 ## **Features**
