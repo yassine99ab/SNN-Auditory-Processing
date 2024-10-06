@@ -43,7 +43,7 @@ To run the code in this repository, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/SNN-Auditory-Processing.git
+    git clone https://github.com/yassine99ab/SNN-Auditory-Processing.git
     cd SNN-Auditory-Processing
     ```
 
