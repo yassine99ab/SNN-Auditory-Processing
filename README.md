@@ -1,6 +1,6 @@
 # **Spiking Neural Networks for Auditory Signal Processing**
 
-This repository contains the code and experiments related to my Data Science master's dissertation, titled **"Exploring Spiking Neural Networks for Auditory Signal Processing: A Neuromorphic Approach to Speech Recognition and Sound Classification."** The project leverages the biological principles of Spiking Neural Networks (SNNs) to address the challenges of auditory processing tasks such as speech recognition and sound classification, offering improved energy efficiency and temporal precision.
+This project explores the application of Spiking Neural Networks (SNNs) for auditory signal processing. It focuses on simulating biologically inspired neural dynamics to process and classify auditory data efficiently.
 
 ## **Table of Contents**
 - [Overview](#overview)
